@@ -1,0 +1,8 @@
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-left: 10px;
+    margin-top: 10px;
+}
